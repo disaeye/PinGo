@@ -1,0 +1,9 @@
+D:\GitHub\PinGo\PinGo\bin\Debug\PinGo.exe.config
+D:\GitHub\PinGo\PinGo\bin\Debug\PinGo.exe
+D:\GitHub\PinGo\PinGo\bin\Debug\PinGo.pdb
+D:\GitHub\PinGo\PinGo\obj\Debug\PinGo.csprojResolveAssemblyReference.cache
+D:\GitHub\PinGo\PinGo\obj\Debug\PinGo.MainWin.resources
+D:\GitHub\PinGo\PinGo\obj\Debug\PinGo.Properties.Resources.resources
+D:\GitHub\PinGo\PinGo\obj\Debug\PinGo.csproj.GenerateResource.Cache
+D:\GitHub\PinGo\PinGo\obj\Debug\PinGo.exe
+D:\GitHub\PinGo\PinGo\obj\Debug\PinGo.pdb
